@@ -1,0 +1,7 @@
+url: https://github.com/TwinsEarth/dsh-windows2macos
+name: TwinsEarth/dsh-windows2macos
+category: remote
+tarball: https://github.com/TwinsEarth/dsh-windows2macos/releases/download/v0.0.1/twinsearth-w2m-dsh-plugin-0.0.1.tgz
+description:
+  en: 'Run one instruction on every online Windows and macOS machine at once: a dependency-free relay pairs the machines, each runs the command in its own checkout, and results come back with a commit, a working-tree fingerprint and a command hash so an environment mismatch is reported as unverifiable instead of being mistaken for a different result.'
+  zh: '一条指令同时下发给所有在线的 Windows 与 macOS 机器：零依赖中继完成配对，各机在各自的项目副本上执行，结果连同 commit、工作区指纹与命令哈希一并回传，因此"环境不一致"会被判为 unverifiable，而不会被误当成结果分歧。'
